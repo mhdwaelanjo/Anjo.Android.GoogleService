@@ -1,4 +1,4 @@
-# GoogleServices_22.0.0
+# GoogleServices.Ads
 
 ---------------------------------
 Google Play Services library SDK for .NET Android (formerly Xamarin.Android) bindings for AndroidX library - Wael Anjo
