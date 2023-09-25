@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anjo.Android.GoogleServices.Ads", "Anjo.Android.GoogleServices.Ads\Anjo.Android.GoogleServices.Ads.csproj", "{B73F55F4-E841-42A6-92BF-82AFCEC1B09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anjo.Android.GoogleServices.AdsBase", "Anjo.Android.GoogleServices.AdsBase\Anjo.Android.GoogleServices.AdsBase.csproj", "{E98BB8B5-3F56-4BE9-8B60-C01D60B78E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anjo.Android.GoogleServices.AdsLite", "Anjo.Android.GoogleServices.AdsLite\Anjo.Android.GoogleServices.AdsLite.csproj", "{6D925E40-ADBA-4495-BFDC-4916C5F89558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B73F55F4-E841-42A6-92BF-82AFCEC1B09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73F55F4-E841-42A6-92BF-82AFCEC1B09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73F55F4-E841-42A6-92BF-82AFCEC1B09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73F55F4-E841-42A6-92BF-82AFCEC1B09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E98BB8B5-3F56-4BE9-8B60-C01D60B78E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98BB8B5-3F56-4BE9-8B60-C01D60B78E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98BB8B5-3F56-4BE9-8B60-C01D60B78E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98BB8B5-3F56-4BE9-8B60-C01D60B78E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D925E40-ADBA-4495-BFDC-4916C5F89558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D925E40-ADBA-4495-BFDC-4916C5F89558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D925E40-ADBA-4495-BFDC-4916C5F89558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D925E40-ADBA-4495-BFDC-4916C5F89558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {053A8252-C1D0-457B-AF06-9978149C82AA}
+	EndGlobalSection
+EndGlobal
