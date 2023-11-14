@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anjo.Android.GoogleServices
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anjo.Android.GoogleServices.AdsLite", "Anjo.Android.GoogleServices.AdsLite\Anjo.Android.GoogleServices.AdsLite.csproj", "{6D925E40-ADBA-4495-BFDC-4916C5F89558}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleServicesApp", "GoogleServicesApp\GoogleServicesApp.csproj", "{6930FF7C-D2EA-4A50-9484-86364357D0A8}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,12 +27,6 @@ Global
 		{6D925E40-ADBA-4495-BFDC-4916C5F89558}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D925E40-ADBA-4495-BFDC-4916C5F89558}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D925E40-ADBA-4495-BFDC-4916C5F89558}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6930FF7C-D2EA-4A50-9484-86364357D0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6930FF7C-D2EA-4A50-9484-86364357D0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6930FF7C-D2EA-4A50-9484-86364357D0A8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{6930FF7C-D2EA-4A50-9484-86364357D0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6930FF7C-D2EA-4A50-9484-86364357D0A8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6930FF7C-D2EA-4A50-9484-86364357D0A8}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
