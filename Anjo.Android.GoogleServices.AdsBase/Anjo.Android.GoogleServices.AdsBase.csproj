@@ -1,24 +1,24 @@
 <Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
-		<TargetFrameworks>net7.0-android;net6.0-android;</TargetFrameworks>
+		<TargetFrameworks>net8.0-android;net7.0-android;</TargetFrameworks>
 		<SupportedOSPlatformVersion>21</SupportedOSPlatformVersion>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
 	</PropertyGroup>
 	<PropertyGroup>
 		<PackageId>Anjo.Android.GoogleServices.AdsBase</PackageId>
-		<PackageVersion>22.5.0</PackageVersion>
-		<AssemblyVersion>22.5.0</AssemblyVersion>
-		<FileVersion>22.5.0</FileVersion>
-		<Version>22.5.0</Version>
+		<PackageVersion>22.6.0</PackageVersion>
+		<AssemblyVersion>22.6.0</AssemblyVersion>
+		<FileVersion>22.6.0</FileVersion>
+		<Version>22.6.0</Version>
 		<Title>Anjo Android GoogleServices Ads Base SDK</Title>
 		<Authors>Wael Anjo</Authors>
 		<Owners>Wael Anjo</Owners>
 		<PackageProjectUrl>https://github.com/mhdwaelanjo/Anjo.Android.GoogleServices</PackageProjectUrl>
 		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
 		<Description>.NET for Android (formerly Xamarin.Android) bindings for Google Play Services library 'com.google.android.gms:play-services-ads-base'.</Description>
-		<PackageReleaseNotes>GoogleServices Ads Base SDK v22.5.0</PackageReleaseNotes>
-		<Copyright>Copyright (c) 2023 Wael Anjo</Copyright>
+		<PackageReleaseNotes>GoogleServices Ads Base SDK v22.6.0</PackageReleaseNotes>
+		<Copyright>Copyright (c) 2024 Wael Anjo</Copyright>
 		<PackageTags>Xamarin.Android, Google Play Services, Admob, Banner, Interstitial, Rewarded Interstitial</PackageTags>
 		<Summary>The Google Mobile Ads SDK is the latest generation in Google mobile advertising, featuring refined ad formats and streamlined APIs for access to mobile ad networks and advertising solutions. The SDK enables mobile app developers to maximize their monetization in native mobile apps.</Summary>
 		<!-- Include symbol files (*.pdb) in the built .nupkg -->
@@ -29,7 +29,7 @@
 		<PackageIcon>icon.png</PackageIcon>
 	</PropertyGroup>
 	<ItemGroup>
-	  <None Remove="Jars\play-services-ads-base-22.5.0.aar" />
+	  <None Remove="Jars\play-services-ads-base-22.6.0.aar" />
 	</ItemGroup>
 	<ItemGroup>
 		<None Include="..\icon.png">
@@ -46,6 +46,6 @@
 		</None>
 	</ItemGroup>
 	<ItemGroup>
-		<PackageReference Include="Xamarin.GooglePlayServices.Basement" Version="118.2.0.4" />
+		<PackageReference Include="Xamarin.GooglePlayServices.Basement" Version="118.2.0.5" />
 	</ItemGroup>
 </Project>
