@@ -7,17 +7,17 @@
 	</PropertyGroup>
 	<PropertyGroup>
 		<PackageId>Anjo.Android.GoogleServices.AdsLite</PackageId>
-		<PackageVersion>23.2.0</PackageVersion>
-		<AssemblyVersion>23.2.0</AssemblyVersion>
-		<FileVersion>23.2.0</FileVersion>
-		<Version>23.2.0</Version>
+		<PackageVersion>23.5.0</PackageVersion>
+		<AssemblyVersion>23.5.0</AssemblyVersion>
+		<FileVersion>23.5.0</FileVersion>
+		<Version>23.5.0</Version>
 		<Title>Anjo Android GoogleServices Ads Lite SDK</Title>
 		<Authors>Wael Anjo</Authors>
 		<Owners>Wael Anjo</Owners>
 		<PackageProjectUrl>https://github.com/mhdwaelanjo/Anjo.Android.GoogleServices</PackageProjectUrl>
 		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
 		<Description>.NET for Android (formerly Xamarin.Android) bindings for Google Play Services library 'com.google.android.gms:play-services-ads-lite'.</Description>
-		<PackageReleaseNotes>GoogleServices Ads Lite SDK v23.2.0</PackageReleaseNotes>
+		<PackageReleaseNotes>GoogleServices Ads Lite SDK v23.5.0</PackageReleaseNotes>
 		<Copyright>Copyright (c) 2024 Wael Anjo</Copyright>
 		<PackageTags>Xamarin.Android, NET MAUI, Google Play Services, Admob, Banner, Interstitial, Rewarded Interstitial</PackageTags>
 		<Summary>The Google Mobile Ads SDK is the latest generation in Google mobile advertising, featuring refined ad formats and streamlined APIs for access to mobile ad networks and advertising solutions. The SDK enables mobile app developers to maximize their monetization in native mobile apps.</Summary>
@@ -29,7 +29,7 @@
 		<PackageIcon>icon.png</PackageIcon>
 	</PropertyGroup>
 	<ItemGroup>
-	  <None Remove="Jars\play-services-ads-lite-23.2.0.aar" />
+	  <None Remove="Jars\play-services-ads-lite-23.5.0.aar" />
 	</ItemGroup>
 	<ItemGroup>
 		<None Include="..\icon.png">
