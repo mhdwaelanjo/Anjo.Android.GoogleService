@@ -4,7 +4,7 @@
 Google Play Services library SDK for .NET Android (formerly Xamarin.Android) bindings for AndroidX library - Wael Anjo
 ---------------------------------
 
-[![NuGet Version](https://img.shields.io/nuget/v/Anjo.Android.GoogleServices.Ads)](https://www.nuget.org/packages/Anjo.Android.GoogleServices.Ads) [![GitHub License](https://img.shields.io/github/license/mhdwaelanjo/Anjo.Android.GoogleServices.Ads)](https://github.com/mhdwaelanjo/Anjo.Android.GoogleServices.Ads/blob/master/LICENSE)
+[![NuGet Version](https://img.shields.io/nuget/v/Anjo.Android.GoogleServices.Ads)](https://www.nuget.org/packages/Anjo.Android.GoogleServices.Ads) [![GitHub License](https://img.shields.io/github/license/mhdwaelanjo/Anjo.Android.GoogleService)](https://github.com/mhdwaelanjo/Anjo.Android.GoogleService/blob/master/LICENSE.txt)
 
 The Google Mobile Ads SDK is the latest generation in Google mobile advertising, featuring refined ad formats and streamlined APIs for access to mobile ad networks and advertising solutions. 
 The SDK enables mobile app developers to maximize their monetization in native mobile apps.
